@@ -28,15 +28,18 @@ body > div {
 .red {
   background-color: #e0072b;
   color: white;
+  height: 1000px;
 }
 .blue {
   background-color: #275db3;
   color: white;
+  height: 1000px;
 }
 
 .home {
   background-color: green;
   color: white;
+  height: 1000px;
 }
 
 :root {
@@ -89,7 +92,7 @@ body {
   font-weight: 300;
   background: #3a7c7c;
   width: 100%;
-  height: 100%;
+  height: 1000px;
 }
 
 input {

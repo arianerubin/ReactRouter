@@ -50,7 +50,7 @@ export default function SignUpForm({ setToken }) {
   }
 
   return (
-    <div>
+    <div className="Form">
       <Avatar img="https://coursereport-s3-production.global.ssl.fastly.net/uploads/school/logo/39/original/fullstack-academy-logo-square-lg.jpg" />
       <h2>SignUpForm</h2>
       {error && <p>{error}</p>}
